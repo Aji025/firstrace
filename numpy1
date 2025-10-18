@@ -1,0 +1,3 @@
+import numpy as np
+arr = np.array(["aj","aji",4,25,29])
+print(arr)
